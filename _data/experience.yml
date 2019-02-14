@@ -1,0 +1,47 @@
+- company: Google/YouTube
+  link: http://youtube.com
+  jobs:
+    - title: Senior Software Engineer
+      dates: March 2017 - August 2018
+    - title: Software Engineer
+      dates: July 2013 - March 2017
+  description: | # this will include new lines to allow paragraphs
+    Was the lead on the project to migrate YouTube's core API platform from a single <mark>Python</mark> server to <mark>C++</mark> microservices.
+
+    Designed and built a high QPS extensible router for YouTube's API traffic in <mark>Go</mark>.
+
+    Built and maintained infrastructure around internal APIs.
+
+    Worked on improving [spitfire](https://github.com/youtube/spitfire), YouTube's <mark>python</mark> based server-side template rendering engine, by introducing new optimizations and syntax.
+
+    Worked on YouTube's front-end <mark>JavaScript</mark> framework, [spfjs](https://github.com/youtube/spfjs).
+
+- company: TEALSK12
+  link: https://www.tealsk12.org/
+  job_title: Teacher
+  dates: January 2014 - May 2018
+  description: |
+    Taught AP CS to 11th and 12th graders at El Camino HS (2016-2018). The class prepares students for the AP CS A test in Java.
+
+    Taught intro to computer science to 11th graders at Balboa High School. (2014-2016)
+    The class used Snap! to teach programming fundamentals for the first semester and then we switched to JavaScript for the second semester.
+
+    I designed lesson plans, taught lessons and created assignments.
+
+- company: Vistar Media
+  link: https://www.vistarmedia.com/
+  job_title: Software Engineer Intern
+  dates: May 2012 - August 2012
+  description: |
+    Worked on full stack.
+    - python/flask backend.
+    - backbone.js/coffeescript frontend.
+    - Some Scala/Go services.
+
+    Built data visualizatins using coffeescript and d3.js.
+
+- company: University of Pennyslvania
+  job_title: Teaching Assistant
+  dates: September 2011 - May 2012
+  description: |
+    Taught a lab section for Intro to Programming (CIS120), held office hours, and graded exams.

@@ -1,0 +1,5 @@
+- name: University of Pennsylvania
+  dates: September 2009 - May 2013
+  qualification: BSE Computer Science
+  description: | # this will include new lines to allow paragraphs
+    Studied Computer Science with an emphasis in classes around functional programming and Type Theory.

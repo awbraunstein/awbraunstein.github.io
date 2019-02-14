@@ -1,0 +1,55 @@
+# Site
+# favicon: images/favicon.ico
+
+# Personal info
+name: Andrew Braunstein
+title: Senior Software Engineer
+email: awbraunstein@gmail.com
+website: https://andrewbraunstein.com
+
+# Social links
+twitter_username: awbraunstein
+github_username:  awbraunstein
+# dribbble_username: jekyll
+facebook_username: AndrewBraunstein
+# flickr_username: jekyll
+instagram_username: andrewbraunstein
+linkedin_username: awbraunstein
+# pinterest_username: jekyll
+# youtube_username: globalmtb
+# googleplus_username: +jekyll
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  I'm Andrew and I'm currently roaming the US looking for rocks to climb and mountains to snowboard.
+
+  I also write code and am for hire for freelance/contract work.
+
+# Projects Section
+# projects_title: Projects
+
+# Experience Section
+# experience_title: Experience
+
+# Education Section
+# educaton_title: Education
+
+# More Section
+# more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  In addition to spending time outdoors, I'm also very passionate about education. I spent 4 years volunteering with TEALSK12 where I taught computer science to Bay Area high schoolers. I had the opportunity to be exposed to Computer Science through my High School and it changed me forever. I aimed to have that same effect on the students that I taught.
+
+# Footer
+footer_show_references: true
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
