@@ -3,18 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://andrewbraunstein.com/about/</loc>
-    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
+    <loc>https://andrewbraunstein.com/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://andrewbraunstein.com/</loc>
+    <loc>https://andrewbraunstein.com/blog/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://andrewbraunstein.com/categories/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewbraunstein.com/blog/first-post/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andrewbraunstein.com/categories/general/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://andrewbraunstein.com/about/</loc>
+    <lastmod>2019-07-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>

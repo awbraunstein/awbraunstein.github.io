@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Andrew Braunstein&#39;s Site</title>
-    <link>https://andrewbraunstein.com/</link>
-    <description>Recent content on Andrew Braunstein&#39;s Site</description>
+    <title>Blog on Andrew Braunstein&#39;s Site</title>
+    <link>https://andrewbraunstein.com/blog/</link>
+    <description>Recent content in Blog on Andrew Braunstein&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://andrewbraunstein.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://andrewbraunstein.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
